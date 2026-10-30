@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
   <!-- Tanbeehat logo for light backgrounds: purple magnet-bell on a white rounded square with a purple outline. -->
   <rect x="10" y="10" width="1004" height="1004" rx="226" fill="#FFFFFF" stroke="#4F008C" stroke-width="20"/>
-  <path fill="#4F008C" d="M242 731V478A270 270 0 0 1 782 478V731H680A58 58 0 0 1 622 673V478A110 110 0 0 0 402 478V673A58 58 0 0 1 344 731Z M428 731H596V743A84 84 0 0 1 428 743Z"/>
+  <path fill="#4F008C" d="M193 767V468A319 319 0 0 1 831 468V767H712A70 70 0 0 1 642 697V468A130 130 0 0 0 382 468V697A70 70 0 0 1 312 767Z M414.5 767H609.5V780.5A97.5 97.5 0 0 1 414.5 780.5Z"/>
 </svg>
