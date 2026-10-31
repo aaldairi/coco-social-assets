@@ -12,4 +12,4 @@ Images hosted for social publishing via Buffer.
 
 ## Old pre-rebrand images
 
-The `coco-*.png` images in the repo root are the old pre-rebrand posts and still show the previous name. Nothing schedules them any more; use `tanbeehat/` for all new posts.
+The `coco-*.png` images in the repo root are the old pre-rebrand posts and still show the previous name. Use `tanbeehat/` for all new posts.
